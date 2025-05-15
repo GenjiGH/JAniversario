@@ -111,7 +111,7 @@ h1 {
     border: 3px dotted var(--texto);
     padding: 12px;
     height: 100%;
-    line-height: 14px;
+    line-height: 16px;
     cursor: pointer;
     overflow-Y: scroll;
 }
