@@ -107,9 +107,9 @@ h1 {
     font-family: "Gill Sans", Calibri, sans-serif;
     color: var(--texto);
     text-align: left;
-    font-size: 20px;
+    font-size: 18px;
     border: 3px dotted var(--texto);
-    padding: 10px;
+    padding: 12px;
     height: 100%;
     line-height: 14px;
     cursor: pointer;
